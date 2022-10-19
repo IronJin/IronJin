@@ -5,7 +5,10 @@
 
 
 ### <div align=center> CONTACT ME 💬 </div>
-<div align=center> <img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=VELOG&logoColor=white"/>  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=NOTION&logoColor=white"/>  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=INSTAGRAM&logoColor=white"/> <img src="https://img.shields.io/badge/gra1259@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/> </div>
+
+<div align=center> 
+<img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=VELOG&logoColor=white"/> <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=NOTION&logoColor=white"/> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=INSTAGRAM&logoColor=white"/> <img src="https://img.shields.io/badge/gra1259@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
+</div>
 
 <br/>
 
@@ -19,9 +22,11 @@
 
 <br/>
 
+<div align=center>
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc2346)](https://solved.ac/zxc2346)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc2346)](https://solved.ac/zxc2346)  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronJin)](https://github.com/gra1259@naver.com/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gra1259@naver.com)](https://github.com/gra1259@naver.com/github-readme-stats)
-
+</div>
