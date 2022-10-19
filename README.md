@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20CheolJin%20Yang!&descAlignY=58&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello%20World!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=I'm%20CheolJin%20Yang!&descAlignY=58&descAlign=60)
 
-
-<div align=center> Hi there! 👋 </div>
 <div align=center> My name is CheolJin Yang! 😃 </div>
 <div align=center> I'm a Web back-end developer using Spring Boot.  </div>
 
 
-### <div align=center> 💬 CONTACT ME 💬 </div>
+### <div align=center> 🌈 CONTACT ME 🌈 </div>
 
 <div align=center> 
 <a href="https://velog.io/@ironjin"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=VELOG&logoColor=white"/></a> <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=NOTION&logoColor=white"/> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=INSTAGRAM&logoColor=white"/> <img src="https://img.shields.io/badge/gra1259@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
@@ -26,7 +24,7 @@
 <div align=center>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc2346)](https://solved.ac/zxc2346) 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc2346)](https://solved.ac/zxc2346)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronJin)](https://github.com/gra1259@naver.com/github-readme-stats)
 
 </div>
