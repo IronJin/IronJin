@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello%20World!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=I'm%20CheolJin%20Yang!&descAlignY=58&descAlign=60)
-
-<div align=center> My name is CheolJin Yang! 😃 </div>
+<div align=center> Hi there 😃 </div>
+<div align=center> My name is CheolJin Yang!  </div>
 <div align=center> I'm a Web back-end developer using Spring Boot.  </div>
 
 
@@ -21,5 +21,10 @@
 <br>
 <br>
 
+<div align=center>
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc2346)](https://solved.ac/zxc2346)&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronJin)](https://github.com/gra1259@naver.com/github-readme-stats)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc2346)](https://solved.ac/zxc2346)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronJin)](https://github.com/gra1259@naver.com/github-readme-stats)
+</div>
