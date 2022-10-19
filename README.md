@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20CheolJin%20Yang!&descAlignY=58&descAlign=62)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20CheolJin%20Yang!&descAlignY=58&descAlign=60)
 <div align=center> Hi there! 👋 </div>
 <div align=center> My name is CheolJin Yang! 😃 </div>
 <div align=center> I'm a Web back-end developer using Spring Boot.  </div>
