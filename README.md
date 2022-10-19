@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20CheolJin%20Yang!&descAlignY=58&descAlign=62)
 
+<div align=center> Hi there! 👋 </div>
+<div align=center> My name is CheolJin Yang! 😃 </div>
+<div align=center> I'm a Web back-end developer using Spring Boot.  </div>
 
-### <div align=center> CONTACT ME </div>
+
+### <div align=center> CONTACT ME 🌈 </div>
 <div align=center> <img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=VELOG&logoColor=white"/>  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=NOTION&logoColor=white"/>  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=INSTAGRAM&logoColor=white"/> <img src="https://img.shields.io/badge/gra1259@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/> </div>
 
 <br/>
@@ -11,5 +15,5 @@
 
 <br/>
 
-### <div align=center> Collaboration & Tools </h2> </div>
+### <div align=center> Collaboration & Tools 🔨 </h2> </div>
 <div align=center> <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=NOTION&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=ECLIPSE IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=INTELLIJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=ANDROID STUDIO&logoColor=white"/> </div>
