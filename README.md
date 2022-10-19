@@ -4,7 +4,7 @@
 <div align=center> I'm a Web back-end developer using Spring Boot.  </div>
 
 
-### <div align=center> CONTACT ME 🌈 </div>
+### <div align=center> CONTACT ME 💬 </div>
 <div align=center> <img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=VELOG&logoColor=white"/>  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=NOTION&logoColor=white"/>  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=INSTAGRAM&logoColor=white"/> <img src="https://img.shields.io/badge/gra1259@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/> </div>
 
 <br/>
