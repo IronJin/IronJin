@@ -24,8 +24,8 @@
 
 ### ✨ My Stats ✨
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc2346)](https://solved.ac/zxc2346)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc2346)](https://solved.ac/zxc2346)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronJin)](https://github.com/gra1259@naver.com/github-readme-stats)
 </div>
