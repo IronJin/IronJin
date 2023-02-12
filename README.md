@@ -7,7 +7,7 @@
 ### <div align=center> 🌈 CONTACT ME 🌈 </div>
 
 <div align=center> 
-<a href="https://velog.io/@ironjin"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=VELOG&logoColor=white"/></a> <a href="https://yangcheoljin.notion.site/Yang-CheolJin-1c190842ecd844239d15d2d699137254"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=NOTION&logoColor=white"/></a> <a href="https://www.instagram.com/ironjin1/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=INSTAGRAM&logoColor=white"/></a> <img src="https://img.shields.io/badge/gra1259@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
+<a href="https://velog.io/@ironjin"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat&logo=VELOG&logoColor=white"/></a> <a href="https://yangcheoljin.notion.site/Yang-CheolJin-1c190842ecd844239d15d2d699137254"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=NOTION&logoColor=white"/></a> <a href="https://www.instagram.com/_iron_jin/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=INSTAGRAM&logoColor=white"/></a> <img src="https://img.shields.io/badge/gra1259@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
 </div>
 
 
